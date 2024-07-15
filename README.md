@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/arXiv-2407.08825%20-red.svg)](https://arxiv.org/abs/240708825)
+[![](https://img.shields.io/badge/arXiv-2407.08825%20-red.svg)](https://arxiv.org/abs/2407.08825)
 
 
 # Testing screened modified gravity with SDSS-IV-MaNGA
