@@ -8,4 +8,4 @@ This repository contains the main jupyter notebooks used to produce the analysis
 
 It is necessary to run a selected samplle of galaxies (.fits file in this folder) with the NIRVANA version avalailable [here](https://github.com/ricardoclandim/NIRVANA/tree/asymdrift)  
 
-This code can be freely used, as long as you cite the specific release paper ([Landim et al, 2024](https://arxiv.org/abs/2407.08825))
+This code can be freely used, as long as you cite the specific release paper ([Landim et al, 2024](https://arxiv.org/abs/2407.08825)).
